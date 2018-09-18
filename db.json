@@ -236,8 +236,8 @@
       "password": "salo",
       "created": "2014-06-01 00:35:07",
       "modified": "2014-05-30 22:34:33",
-      "telefono": "0987164682",
-      "correo": "salo.procel@gmail.com"
+      "telefono": "0987852682",
+      "correo": "salo.procel@yopmail.com"
     },
     {
       "id": "2",
@@ -246,8 +246,8 @@
       "password": "eve",
       "created": "2014-06-01 00:35:07",
       "modified": "2014-05-30 22:34:33",
-      "telefono": "0959870157",
-      "correo": "efigueroan@est.ups.edu.ec"
+      "telefono": "0959352157",
+      "correo": "efigueroan@yopmail.com"
     },
     {
       "id": "3",
@@ -256,7 +256,7 @@
       "password": "nathy",
       "created": "2014-06-01 00:35:07",
       "modified": "2014-05-30 22:34:54",
-      "telefono": "0979887862",
+      "telefono": "0914287862",
       "correo": "eworimita-6038@yopmail.com"
     },
     {
@@ -266,7 +266,7 @@
       "password": "angy",
       "created": "0000-00-00 00:00:00",
       "modified": "2016-01-08 18:27:26",
-      "telefono": "0992781229",
+      "telefono": "0997521229",
       "correo": "ynusinne-4370@yopmail.com"
     },
     {
@@ -286,7 +286,7 @@
       "password": "sam",
       "created": "2018-08-30 00:16:31",
       "modified": "2018-08-29 22:16:31",
-      "telefono": "0987164682",
+      "telefono": "0987365682",
       "correo": "sam@yopmail.com"
     }
   ]
