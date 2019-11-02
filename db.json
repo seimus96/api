@@ -13,6 +13,24 @@
         { "descripcion": "Sistemas - 1" },
         { "descripcion": "Electronica - 2"}
       ]
+    },
+    {
+      "cod_libro": "2",
+      "nombre": "Tippens",
+      "descripcion": "Contenido Capítulo 25 Potencial eléctrico 496 29.7 Fuerza sobre un conductor por el que 25.1 Energía potencial eléctrica 497 circula una corriente 577 25.2 Cálculo de la energía potencial 499 29.8 Campo magnético de un conductor largo 25.3 Potencial 501 y recto 578 25.4 Diferencia de potencial 504 29.9 Otros campos magnéticos 580 25.5 Experimento de Millikan de la gota de aceite 506 29.10 Histéresis 581 25.6 El electrón volt 507 Capítulo 30 Fuerzas y momentos de torsión en un campo Capítulo 26 Capacitancia 512 magnético 589 26.1 Limitaciones al cargar un conductor 513 30.1 Fuerza y momento de torsión en una 26.2 El capacitor 515 espira 590 26.3 Cálculo de la capacitancia 517 30.2 Momento de torsión magnético sobre 26.4 Constante dieléctrica; permitividad 519 un solenoide 592 26.5",
+      "autor": "Paul E. Tippens",
+      "imagen": "https://image.slidesharecdn.com/fisicaconceptosyaplicaciones7maediciontippens-160902041026/95/fisica-conceptos-y-aplicaciones-7ma-edicion-tippens-1-638.jpg?cb=1472789824",
+      "idioma": "Español",
+      "fecha_publicacion": "5/08/2017",
+      "tema": "Fisica General",
+      "niveles": [
+        { "descripcion": "Sistemas - 1" },
+        { "descripcion": "Electronica - 1"},
+        { "descripcion": "Sistemas - 2" },
+        { "descripcion": "Electronica - 2"},
+        { "descripcion": "Sistemas - 3" },
+        { "descripcion": "Electronica - 3"}
+      ]
     }
   ]
 }
