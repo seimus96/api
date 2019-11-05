@@ -2,7 +2,7 @@
   "libros": [
     {
       "cod_libro": "1",
-      "nombre": "Sistemas de telecomunicaciones",
+      "nombre": "Sistemas de Comunicaciones Electronicas",
       "descripcion": "El objeto de este libro es presentar al lector los conceptos básicos de los sistemas convencionales de comunicaciones electrónicas analógicas, y ampliar sus conocimientos con los sistemas decomunicaciones más modernos, digitales, de fibra óptica, de microondas, satelitales y telefónicos celulares, y satelitales de comunicaciones personales.",
       "autor": "Wayne Tomasi",
       "imagen": "https://http2.mlstatic.com/sistemas-de-comunicaciones-electronicas-tomasi-senales-D_NQ_NP_909941-MCO26523151943_122017-F.jpg",
