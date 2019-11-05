@@ -10,8 +10,9 @@
       "fecha_publicacion": "2/11/2019",
       "tema": "Telecomunicaciones",
       "niveles": [
-        { "descripcion": "Sistemas - 1" },
-        { "descripcion": "Electronica - 2"}
+        { "descripcion": "Ing en Sistemas - 7mo Semestrre" },
+        { "descripcion": "Ing en Electronica - 6to Semestre"},
+        { "descripcion": "Ing en Telecomunicaciones - 5to Semestre"}
       ]
     },
     {
