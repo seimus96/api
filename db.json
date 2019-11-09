@@ -8,12 +8,7 @@
       "imagen": "https://http2.mlstatic.com/sistemas-de-comunicaciones-electronicas-tomasi-senales-D_NQ_NP_909941-MCO26523151943_122017-F.jpg",
       "idioma": "Español",
       "fecha_publicacion": "2/11/2019",
-      "tema": "Telecomunicaciones",
-      "niveles": [
-        { "descripcion": "Ing en Sistemas - 7mo Semestrre" },
-        { "descripcion": "Ing en Electronica - 6to Semestre"},
-        { "descripcion": "Ing en Telecomunicaciones - 5to Semestre"}
-      ]
+      "tema": "Telecomunicaciones"
     },
     {
       "cod_libro": "2",
@@ -23,15 +18,7 @@
       "imagen": "https://image.slidesharecdn.com/fisicaconceptosyaplicaciones7maediciontippens-160902041026/95/fisica-conceptos-y-aplicaciones-7ma-edicion-tippens-1-638.jpg?cb=1472789824",
       "idioma": "Español",
       "fecha_publicacion": "5/08/2017",
-      "tema": "Fisica General",
-      "niveles": [
-        { "descripcion": "Sistemas - 1" },
-        { "descripcion": "Electronica - 1"},
-        { "descripcion": "Sistemas - 2" },
-        { "descripcion": "Electronica - 2"},
-        { "descripcion": "Sistemas - 3" },
-        { "descripcion": "Electronica - 3"}
-      ]
+      "tema": "Fisica General"
     }
   ]
 }
